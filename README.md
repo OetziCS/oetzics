@@ -16,7 +16,7 @@ Hi there! I'm oetzi_cs, named after the famous Iceman Ötzi. Just like him, I'm 
 
 ## Quote
 
-<!-- QUOTE-PLACEHOLDER -->
+> Don't watch the clock; do what it does. Keep going. - Sam Levenson
 
 ## Get in Touch
 
