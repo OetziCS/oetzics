@@ -13,5 +13,4 @@ Hi there! I'm oetzi_cs, named after the famous Iceman Ötzi. Just like him, I'm 
 * Twitter: [@Oetzi_CS](https://x.com/Oetzi_CS)
 * Website: [oetzics.com](https://oetzics.com/)
 
-In the world of code, staying cool is always the hottest trend!
 </center>
